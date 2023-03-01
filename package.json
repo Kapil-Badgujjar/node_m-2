@@ -1,0 +1,15 @@
+{
+  "name": "node_day_2",
+  "version": "1.0.0",
+  "description": "2nd module assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kapil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
